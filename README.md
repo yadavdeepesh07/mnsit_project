@@ -1,2 +1,2 @@
 # mnsit_project
-protecting the  numbers 
+pretecting the  numbers 
